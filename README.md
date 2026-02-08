@@ -2,6 +2,8 @@
 
 SiteAudit Pro is a modern React application that provides comprehensive website audits, traffic analysis, and SEO health checks using the Google Gemini API.
 
+🔗 Live Demo: https://siteaudit-pro.vercel.app/
+
 ## Features
 - 📊 **Traffic Analysis**: Visualize monthly visits and user engagement trends.
 - 🌍 **Geo Distribution**: See where your traffic comes from.
